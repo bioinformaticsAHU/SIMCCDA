@@ -1,10 +1,10 @@
 # SIMCCDA
 
-## Title:
+## Title
 
 Prediction of circRNA-disease associations based on inductive matrix completion.
 
-## Developers: 
+## Developers
 
 Menglu Li (mengluli@foxmail.com) and Mengya Liu ([woshiliangming@outlook.com](mailto:woshiliangming@outlook.com) ) from Institutes of Physical Science and Information Technology and School of Computer Science and Technology, Anhui University.
 
@@ -18,7 +18,7 @@ Menglu Li (mengluli@foxmail.com) and Mengya Liu ([woshiliangming@outlook.com](ma
 ========================================================================================
 | FILE NAME            | DESCRIPTION                                                   |
 ========================================================================================
-|chr_diseasematrix.csv | known circRNA-disease associations information, 1 indicates that circRNA and disease are associated, 0 indicates that their associations is currently in an unknown state.                                                         |
+|chr_diseasematrix.csv | known circRNA-disease associations information, 1 indicates that circRNA and disease are associated, 0 indicates that their associations is currently in an unknown state.|
 |dissimilarity.csv     | disease semantic similarity (DOSim (DOSE R package)).         |
 |seqsimilarity.csv     | circRNA sequence similarity (Levenshtein distance).           |
 ```
